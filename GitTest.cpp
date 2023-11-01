@@ -16,7 +16,6 @@ int main()
 
     std::cout << "マージします\n";
 
-    std::cout << "プルせずに作業\n";
 
 
 
